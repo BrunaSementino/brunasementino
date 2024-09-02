@@ -28,9 +28,22 @@
 ## Estátisticas do GitHub
 
 <div>
-  <a href="https://github.com/BrunaSementino">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasementino&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brunasementino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/brunasementino/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunasementino&layout=compact&langs_count=8&card_width=320&theme=dracula" />
   </a>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=brunasementino&show_icons=true&theme=dracula"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=brunasementino&show_icons=true&theme=dracula"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brunasementino&show_icons=true&theme=dracula" />
+  </picture>
 </div>
+
+
 
