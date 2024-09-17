@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Estudante 4° periodo de Ciência de Dados - Univesp
+- 🔭 Estudante 5° periodo de Ciência de Dados - Univesp
 - 🔭 Estudante 1° periodo de Eng. Software - USF
 - 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript
 - 😄 Ela/Dela
