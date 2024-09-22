@@ -5,7 +5,7 @@
 
 - 🔭 Estudante 5° periodo de Ciência de Dados - Univesp
 - 🔭 Estudante 1° periodo de Eng. Software - USF
-- 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript
+- 🌱 Atualmente estou aprendendo Sql, NoSql
 - 😄 Ela/Dela
 - ⚡ Se você é um novato como eu, iremos desvendar a programação juntos.
 
